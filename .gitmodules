@@ -1,3 +1,6 @@
 [submodule "GrayscaleImageViewerForMatlab"]
 	path = GrayscaleImageViewerForMatlab
 	url = https://github.com/henrikmidtiby/GrayscaleImageViewerForMatlab
+[submodule "ProgressIndicatorMatlab"]
+	path = ProgressIndicatorMatlab
+	url = git@github.com:henrikmidtiby/ProgressIndicatorMatlab.git
