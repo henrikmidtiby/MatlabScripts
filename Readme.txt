@@ -1,14 +1,14 @@
+
+# Clone repository
+git clone git@github.com:henrikmidtiby/MatlabScripts.git
+
+# Update subrepositories
+git submodule update --init
+
+
 How the image viewer submodule was added.
-
-# Create main repository
-git init
-
 # Add imageviewer submodule
 git submodule add https://github.com/henrikmidtiby/GrayscaleImageViewerForMatlab
 git gui
-
-
-
-
 
 
