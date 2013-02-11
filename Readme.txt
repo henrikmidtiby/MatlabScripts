@@ -8,7 +8,7 @@ git submodule update --init
 
 How the image viewer submodule was added.
 # Add imageviewer submodule
-git submodule add https://github.com/henrikmidtiby/GrayscaleImageViewerForMatlab
+git submodule add git@github.com:henrikmidtiby/GrayscaleImageViewerForMatlab.git
 git gui
 
 
