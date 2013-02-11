@@ -4,3 +4,6 @@
 [submodule "ProgressIndicatorMatlab"]
 	path = ProgressIndicatorMatlab
 	url = git@github.com:henrikmidtiby/ProgressIndicatorMatlab.git
+[submodule "ImageViewer"]
+	path = ImageViewer
+	url = git@github.com:thgis/ImageViewer.git
